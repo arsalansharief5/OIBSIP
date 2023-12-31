@@ -30,16 +30,3 @@ Basics jQuery and bootstrap knowledge.
 - DOM Manipulations
 - Realtime Update
 
-## [Case Study](https://dev.to/karankmr/)
-
-Full Process of project is explained step by step in my blog post. [Coming Soon....](https://dev.to/karankmr/)
-
----
-
-## Find Me On
-
-<p>
-<a href="https://www.instagram.com/karancodes/">Instagram</a> &ensp;
-<a href="https://codepen.io/karan-kmr">Codepen</a> &ensp;
-<a href="https://dev.to/karankmr">Dev.to</a> &ensp;
-</p>
